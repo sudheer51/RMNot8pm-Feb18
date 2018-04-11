@@ -7,6 +7,7 @@ public class RetailMeNotTests extends BaseClass{
 	GiftCardsPage giftPage;
 	
 	//Writing tests for Retail Me Not Tests Application
+	//updating tests.
 	@Test
 	public void validateSearchForAmazonStore()
 	{
