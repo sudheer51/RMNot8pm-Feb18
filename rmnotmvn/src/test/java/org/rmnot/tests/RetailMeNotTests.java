@@ -5,6 +5,8 @@ import org.testng.annotations.Test;
 import org.utility.BaseClass;
 public class RetailMeNotTests extends BaseClass{
 	GiftCardsPage giftPage;
+	
+	//Writing tests for Retail Me Not Tests Application
 	@Test
 	public void validateSearchForAmazonStore()
 	{
